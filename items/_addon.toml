@@ -1,0 +1,28 @@
+filter_name = "Legion"
+filter_description = "Items from the Legion expansion."
+filter_author = "Zottelchen"
+prefixes = [
+    "LE",
+    "LG",
+    "LE-",
+    "LG-",
+    "6.",
+    "icon:1387636",
+    "icon:1713484",
+    "icon:1394946",
+    "icon:1500941",
+    "icon:1500909",
+    "icon:1500904",
+    "icon:1500899",
+    "icon:236293",
+    "icon:1305156",
+    "icon:1392554",
+    "icon:1450140",
+]
+
+[replacers]
+ADDON_COLOR = 0x00BD16
+TOC_VERSION = "100002"
+CURSE_ID = "715534"
+WAGO_ID = "BO67YyG3"
+WOW_INTERFACE_ID = "26497"

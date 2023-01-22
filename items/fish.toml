@@ -1,0 +1,78 @@
+category_name = "Fishing Goods"
+category_color = 0x009FFF
+category_description = { _ = "Something is fishy about this category." }
+mergeable = true
+merged_by_default = true
+
+[bait]
+name = "Fishing Bait"
+description = { _ = "Fishing bait used for Legion rare fishes" }
+color = 0x00C0FF
+items = [
+    133701,
+    133702,
+    133703,
+    133704,
+    133705,
+    133706,
+    133707,
+    133708,
+    133709,
+    133710,
+    133711,
+    133712,
+    133713,
+    133714,
+    133715,
+    133716,
+    133717,
+    133719,
+    133720,
+    133721,
+    133722,
+    133723,
+    133724,
+]
+
+[rarefish]
+name = "Rare Fish"
+description = { _ = "Rare Fish caught in the Broken Isles" }
+color = 0x007EFF
+items = [
+    133725,
+    133726,
+    133727,
+    133728,
+    133729,
+    133730,
+    133731,
+    133732,
+    133733,
+    133734,
+    133735,
+    133736,
+    133737,
+    133738,
+    133739,
+    133740,
+    133741,
+    133742,
+    139652,
+    139653,
+    139654,
+    139655,
+    139656,
+    139657,
+    139658,
+    139659,
+    139660,
+    139661,
+    139662,
+    139663,
+    139664,
+    139665,
+    139666,
+    139667,
+    139668,
+    139669,
+]
