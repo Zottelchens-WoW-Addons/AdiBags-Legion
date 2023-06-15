@@ -2,6 +2,16 @@
 
 **Adds multiple (optionally colored) categories for the most common Legion items in AdiBags (AdiBags is required!):**
 
+**Features:**
+
+- Localization (feel free to contribute on Curseforge!)
+- Mergeable Categories
+- Custom Colors
+- A Prefix you can customize
+- A better UI (Categories, Dividers and alphabetical order)
+
+**Categories:**
+
 - Artifact Power (disabled by default, because they are now grey items and have no purpose but selling them)
 - Ancient Mana
 - Artifact Relics
@@ -12,12 +22,10 @@
 - Legion Reputation items
 - Broken Shore items
 
-**NEW IN VERSION 2.0 - THE HUGE UPDATE:**
+If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchens-WoW-Addons/AdiBags-Legion/issues).
 
-- Localization (feel free to contribute on Curseforge!)
-- Mergeable Categories
-- Custom Colors
-- A Prefix you can customize
-- A better UI (Categories, Dividers and alphabetical order)
+**A special thanks to the following people for their contributions in translating this addon:**
 
-If anything is missing, misplaced, or you want a new category, then please write a comment or [open an issue](https://github.com/Zottelchen/adibags-legion/issues).
+- None yet. Be the first? :)
+
+**If you want to contribute too, you can do so by submitting translations [directly on Curseforge](https://legacy.curseforge.com/wow/addons/adibags-legion/localization).**
