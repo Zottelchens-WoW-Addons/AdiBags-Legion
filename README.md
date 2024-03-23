@@ -25,6 +25,7 @@
 - Flasks, Potions, Elixirs
 - Item Enhancements
 - Tradegoods
+- Recipes
 
 ## Bugs?
 
